@@ -13,3 +13,4 @@ pip install -r requirements.txt
 ```
 python main.py
 ```
+# Updated: 2025-10-03 04:22 - Introduces new API endpoints
