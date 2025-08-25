@@ -13,3 +13,4 @@ pip install -r requirements.txt
 ```
 python main.py
 ```
+# Version: v1.2.0 - 2025-10-03
