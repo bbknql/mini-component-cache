@@ -13,3 +13,4 @@ pip install -r requirements.txt
 ```
 python main.py
 ```
+# Patch 1759440186 - Resolves encoding issues with special characters
