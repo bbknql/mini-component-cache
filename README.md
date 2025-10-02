@@ -13,3 +13,9 @@ pip install -r requirements.txt
 ```
 python main.py
 ```
+
+## Changes - 2025-10-03
+
+- Enhances performance with caching layer
+- Minor bug fixes and improvements
+- Updated dependencies
